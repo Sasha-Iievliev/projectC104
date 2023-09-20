@@ -1,0 +1,16 @@
+body{
+    background-color:red;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 19px;
+    color:cornsilk;
+}
+.heading{
+    width: 80%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+#camera{
+    width:300px;
+    height: 300px;
+    border:3px white dashed;
+}
